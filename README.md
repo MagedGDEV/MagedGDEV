@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MagedGDEV
-- 👀 I’m interested in Game development
+- 👀 I’m interested in software development
 - 🌱 I’m currently learning unity framework, c#, flutter and algorithm for problem solving 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: you can email me on maged.work0@gmail.com
