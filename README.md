@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @MagedGDEV
 - 👀 I’m interested in software development
- 
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: you can email me on maged.work0@gmail.com
 
 <!---
