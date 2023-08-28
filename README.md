@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Flutter, Computer vision, Image processing, Python, IOS Development, C++**
 
-- 📫 How to reach me **maged.w✨ork0@gmail.com**
+- 📫 How to reach me **maged.work0@gmail.com**
 
 - 📄 Know about my experiences [from the CV](https://drive.google.com/file/d/1AlbKGve3RX7FDNENd2MSi6uTyrVY1fkI/view?usp=sharing)
 
