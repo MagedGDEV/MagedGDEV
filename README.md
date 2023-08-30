@@ -3,9 +3,8 @@
 
 - 🔭 I’m currently working on [Qt Core Guide](https://github.com/MagedGDEV/QtCoreGuide) and [Cpp Insights](https://github.com/MagedGDEV/CppInsights)
 
-- ✨ Learn Flutter with my tutorials from [Flutter Apps](https://github.com/MagedGDEV/flutterApps)
 
-- 🚀 Explore my Flutter tutorials at [Flutter Apps](https://github.com/MagedGDEV/flutterApps) - expertly crafted with visuals to guide your learning journey! 🎯
+- 🚀 Explore my Flutter tutorials at [Flutter Apps](https://github.com/MagedGDEV/flutterApps), expertly crafted with visuals to guide your learning journey! 🎯
 
 - 🌱 I’m currently learning **Qt, C++, Flutter**
 
