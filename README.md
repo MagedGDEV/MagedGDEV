@@ -5,7 +5,7 @@
 
 - 🚀 Explore my Flutter tutorials at [Flutter Apps](https://github.com/MagedGDEV/flutterApps), expertly crafted with visuals to guide your learning journey! 🎯
 
-- 🌱 I’m currently learning **Qt, C++, Flutter**
+- 🌱 I’m currently learning **Qt, C++**
 
 - 💬 Ask me about **Flutter, Computer vision, Image processing, Python, IOS Development, C++**
 
