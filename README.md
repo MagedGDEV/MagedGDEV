@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Maged Elesseily</h1>
-<h3 align="center">A passionate Software developer from Egypt</h3>
+<h3 align="center">A passionate Software Engineer from Egypt</h3>
 
 - 🔭 I’m currently working on [Qt Core Guide](https://github.com/MagedGDEV/QtCoreGuide) and [Cpp Insights](https://github.com/MagedGDEV/CppInsights)
 
