@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Maged Elesseily</h1>
 <h3 align="center">A passionate Software Engineer from Egypt</h3>
 
-- 🔭 I’m currently working on [Qt Core Guide](https://github.com/MagedGDEV/QtCoreGuide) and [Cpp Insights](https://github.com/MagedGDEV/CppInsights)
+- 🔭 I’m currently working on [Qt Core Guide](https://github.com/MagedGDEV/QtCoreGuide), [C++ Insights](https://github.com/MagedGDEV/CppInsights) and [ConsoleCrafter](https://github.com/MagedGDEV/ConsoleCrafter)
 
 - 🚀 Explore my Flutter tutorials at [Flutter Apps](https://github.com/MagedGDEV/flutterApps), expertly crafted with visuals to guide your learning journey! 🎯
 
