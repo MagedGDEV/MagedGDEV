@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Maged Elesseily</h1>
 <h3 align="center">Passionate C++ developer from Egypt</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=magedgdev" alt="magedgdev" /></a> </p>
-
 - 🔭 I’m currently working as Qt developer in [Atomica](https://github.com/Symbyo360)
 
 - 🌱 I’m currently learning **Qt, Qml C++, SDL2, Game Development**
