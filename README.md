@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working as Qt developer at **[Atomica](https://github.com/Symbyo360)**
 
-- 🌱 I’m currently learning **Qt, Qml C++, SDL2, Game Development**
+- 🌱 I’m currently learning **Qt, Qml, C++, SDL2, Game Development**
 
 - 🚀 Explore my Flutter tutorials at [Flutter Apps](https://github.com/MagedGDEV/flutterApps)
 
