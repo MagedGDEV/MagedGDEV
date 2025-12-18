@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Maged Elesseily</h1>
-<h3 align="center">Passionate C++ developer from Egypt</h3>
+<h3 align="center">Passionate Computer Engineer from Egypt</h3>
 
 - 🔭 I’m currently working as Qt developer at **[Atomica](https://github.com/Symbyo360)**
 
