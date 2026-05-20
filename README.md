@@ -3,13 +3,13 @@
 
 - 🔭 I’m currently working as Qt developer at **[Atomica](https://github.com/Symbyo360)**
 
-- 🌱 I’m currently learning **Qt, Qml, C++, SDL2, Game Development, Unity**
+//- 🌱 I’m currently practicing **Qt, Qml, C++, SDL2, Game Development, U**
 
 - 🚀 Explore my Flutter tutorials at [Flutter Apps](https://github.com/MagedGDEV/flutterApps)
 
 - 🚀 Get your hand dirty with C++ at [Cpp Insights](https://github.com/MagedGDEV/CppInsights)
 
-- 💬 Ask me about **Qt, Qml, C++, Software development**
+- 💬 Ask me about **Qt, Qml, C++, Docker, Yocto, Python, Software development**
 
 - 📫 How to reach me **maged.work0@gmail.com**
 
